@@ -23,8 +23,8 @@ I've done the Technical High School, and now I'm currenly doing the Bachelor Deg
 [![Code tools](https://skillicons.dev/icons?i=git,idea,clion,vscode,androidstudio)](https://skillicons.dev)
 
 ### Stats
-![](https://raw.githubusercontent.com/Idk121-blip/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Idk121-blip/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/GioGio31/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/GioGio31/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **GioGio31/GioGio31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

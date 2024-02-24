@@ -20,7 +20,7 @@ I've done the Technical High School, and now I'm currenly doing the Bachelor Deg
 ### Tools
 [![Code tools](https://skillicons.dev/icons?i=latex,figma)](https://skillicons.dev)
 <br>
-[![Code tools](https://skillicons.dev/icons?i=git,idea,clion,vscode,androidstudio)](https://skillicons.dev)
+[![Code tools](https://skillicons.dev/icons?i=github,idea,clion,vscode,androidstudio)](https://skillicons.dev)
 
 ### Stats
 ![](https://raw.githubusercontent.com/GioGio31/github-stats/master/generated/overview.svg#gh-dark-mode-only)

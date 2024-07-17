@@ -13,7 +13,7 @@ I've done the Technical High School, and now I'm currenly doing the Bachelor Deg
   </a>
 
 ### Languages
-[![FE Languages](https://skillicons.dev/icons?i=html,css,flutter)](https://skillicons.dev)
+[![FE Languages](https://skillicons.dev/icons?i=html,css,flutter,angular)](https://skillicons.dev)
 <br>
 [![BE Languages](https://skillicons.dev/icons?i=c,cpp,java,rust,mysql,mongodb,kotlin)](https://skillicons.dev)
 

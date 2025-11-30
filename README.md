@@ -5,7 +5,7 @@
 - 📫 How to reach me: **giorgia.saccon3 at gmail.com**
 
 ### Education
-I've done the Technical High School, and now I'm currenly doing the Bachelor Degree in Computer Science at University of Trento.
+I've done the Technical High School, and I have completed the Bachelor Degree in Computer Science at University of Trento.
 
 ### Do you want to know more about me?
 <a href="https://www.linkedin.com/in/giorgia-saccon-9946b8235/">
